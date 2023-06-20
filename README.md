@@ -1,2 +1,2 @@
 # SoftUni-Courses
-This is my firts GitHub comit
+This is my first GitHub commit
